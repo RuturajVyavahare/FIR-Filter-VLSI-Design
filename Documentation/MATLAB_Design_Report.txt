@@ -1,0 +1,16 @@
+VLSI Design of FIR Filter for DSP Applications
+==============================================
+
+Filter type: Low-pass FIR
+Filter order: 31
+Number of taps: 32
+Sampling frequency: 48000 Hz
+Nominal cutoff frequency: 6500 Hz
+Coefficient format: Signed Q1.15
+
+Coefficient Validation
+----------------------
+Integer coefficient sum: 32766
+Reconstructed coefficient sum: 0.99993896
+Maximum quantization error: 0.0000148733
+Symmetry error: 0

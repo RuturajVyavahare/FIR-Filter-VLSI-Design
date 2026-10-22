@@ -1,0 +1,30 @@
+
+# Vivado generated build directories
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.Xil/
+
+# Vivado temporary and backup files
+*.jou
+*.log
+*.str
+*.backup
+*.tmp
+*.dmp
+*.wdb
+*.pb
+*.debug
+*.swp
+*~
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# MATLAB autosaves and temporary files
+*.asv

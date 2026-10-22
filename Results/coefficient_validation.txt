@@ -1,0 +1,9 @@
+FIR Filter Coefficient Validation
+=================================
+Filter order: 31
+Number of taps: 32
+Sampling frequency: 48000 Hz
+Integer coefficient sum: 32766
+Reconstructed coefficient sum: 0.99993896
+Maximum quantization error: 0.0000148733
+Symmetry error: 0
